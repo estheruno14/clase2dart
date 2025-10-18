@@ -1,5 +1,5 @@
 void main(){
-  String name = "esther";
+  String name = "Esther";
   print(name);
   print(name.toLowerCase());
   print(name);
