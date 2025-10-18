@@ -2,8 +2,8 @@ void main(){
   saludo();
   int resp = multiplicacion(10,5);
   print(resp);
-  sumar2(12,6);
-  
+  int resp2 =sumar2(12,6);
+  print(resp2);
 }
 
 //funcion sin retorno
